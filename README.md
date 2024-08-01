@@ -1,7 +1,3 @@
-Claro! Aqui está uma descrição detalhada e com emojis para o repositório "Cpp_Language":
-
----
-
 📦 **Repositório: Cpp_Language**
 
 🌟 **Descrição:**
